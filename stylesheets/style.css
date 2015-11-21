@@ -88,6 +88,10 @@ h3 {
   display: none;
 }
 
+#about p {
+  font-size: 1.6em;
+}
+
 #projects {
   background-image: url("/images/project1.jpg");
   background-position:center;
